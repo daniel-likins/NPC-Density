@@ -1,2 +1,14 @@
-# NPC-Density
-This script will allow you to control the density of all NPC's and all vehicle traffic.
+First download the ZIP from going to the "Code" button and clicking "Download ZIP"
+
+Once that has been downloaded you can go into the "traffic.lua" file and edit ONLY the second and third line to your liking. (Only change the number, and read the notes next to them)
+
+After that has been done, put the whole folder strait into your fivem server files. (Go to the resources folder inside of your server files and drop it right in there)
+
+After that has been put into your server files go to you "server.cfg" and put either "start" or "ensure" depending on what the others are, "npc_density"
+
+Example - start npc_density
+Example - ensure npc_density
+
+Then you should be good! If you have any questions dm me on discord @ dannyl#7448
+
+Also feel free to join my FiveM server! @ discord.gg/
