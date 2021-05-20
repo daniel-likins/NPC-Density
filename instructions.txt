@@ -1,0 +1,2 @@
+# NPC-Density
+This script will allow you to control the density of all NPC's and all vehicle traffic.
