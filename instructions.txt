@@ -8,7 +8,3 @@ After that has been put into your server files go to you "server.cfg" and put ei
 
 Example - start npc_density
 Example - ensure npc_density
-
-Then you should be good! If you have any questions dm me on discord @ dannyl#7448
-
-Also feel free to join my FiveM server! @ discord.gg/vgcNJe4Zn8
